@@ -34,13 +34,13 @@ port = getenv('PORT')
 
 # -------------------------------- Twitter API ------------------------------- #
 # API key:
-api_key = getenv("CONSUMER_KEY")
+api_key = getenv("JHwUBkx2nZrPAfQd8rClSWhyX")
 # API secret key:
-api_secret = getenv("CONSUMER_SECRET")
+api_secret = getenv("W2eGZA7kf5Z8R0FzFKWG5VbKThy7X47MMK3a4GyZw4XFnLcLQ4")
 # Access token: 
-access_token = getenv("API_KEY")
+access_token = getenv("81665629-7fVZGMe6yuyumF9hVI4O85zZTs2h7aKHQSU87AfbW")
 # Access token secret: 
-access_token_secret = getenv("API_SECRET")
+access_token_secret = getenv("qZ1M5XwY5glQp0Ng6YNUqhWOST3b9NE3eLaNbje5g4o8X")
 
 
 # ---------------------------------- Tweepy ---------------------------------- #
